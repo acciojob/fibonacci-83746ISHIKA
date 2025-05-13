@@ -16,3 +16,6 @@ function fibonacci(num) {
 }
 
 module.exports = fibonacci;
+fibonacci(1); // 0
+fibonacci(2); // 1
+fibonacci(3); // 
